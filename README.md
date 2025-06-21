@@ -22,9 +22,7 @@ Python, R, SQL, Tableau, Power BI, Excel; Cloud Services (AWS); Machine Learning
 
 ### **Professional Experience:**
    
-- **CRM & Analytics Manager, Emirates Service** _(2018 – 2022, UAE)_ – **Drove digital transformation** initiatives focused on customer relationship management and process automation. Implemented a new CRM data dashboard (Power BI) to consolidate customer insights, improving lead conversion by 10%. Collaborated cross-functionally to integrate data solutions into marketing and service operations, demonstrating strong **communication and leadership** skills.
-- Launched Power BI CRM dashboard; ↑ lead-to-sale 10 %.
-- Built churn-prediction pipeline; actionable alerts cut attrition 5 %.
+- **CRM & Analytics Manager, Emirates Service** _(2018 – 2022, UAE)_ – **Drove digital transformation** initiatives focused on customer relationship management and process automation. Implemented a new CRM data dashboard (Power BI) to consolidate customer insights, improving lead conversion by 10%. Collaborated cross-functionally to integrate data solutions into marketing and service operations, demonstrating strong **communication and leadership** skills. Launched Power BI CRM dashboard; ↑ lead-to-sale 10 %. Built churn-prediction pipeline; actionable alerts cut attrition 5 %.
 
 - **Sales Development & Marketing Lead, IFFCO Group** _(2010 – 2018, Dubai UAE)_ – **Led development of advanced sales analytics and automation** in a leading FMCG conglomerate. Built predictive models for demand forecasting and CRM analytics, boosting sales forecast accuracy by 20%. Spearheaded an **AI-driven automation** project in supply chain, reducing manual reporting time by 30%. Managed a team of 5 data analysts, fostering a culture of data-driven decision-making.
 
