@@ -10,5 +10,5 @@ show_downloads: true
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-modernist 
 #theme: jekyll-theme-slate
-#theme: jekyll-theme-tactile # Modernist is the best so far.
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-tactile # Modernist is the best so far.
+#theme: jekyll-theme-time-machine
