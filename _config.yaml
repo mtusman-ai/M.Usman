@@ -8,5 +8,5 @@ show_downloads: true
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-merlot
-#theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist # Modernist is the best so far.
 theme: jekyll-theme-slate
