@@ -5,7 +5,7 @@ description: Seasoned Data Sciencce Professional
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-dinky # Option No.2 for theme.
 #theme: jekyll-theme-hacker # Option No.3 for theme.
-theme: jekyll-theme-modernist 
-#theme: jekyll-theme-slate
+#theme: jekyll-theme-modernist 
+theme: jekyll-theme-slate
 #theme: jekyll-theme-tactile # Modernist is the best so far.
 #theme: jekyll-theme-time-machine
