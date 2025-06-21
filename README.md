@@ -11,11 +11,20 @@ Python, R, SQL, Tableau, Power BI, Excel; Cloud Services (AWS); Machine Learning
 - **“Create Marketing Agents” – Automated Analytics Pipeline:** Developed an AI-driven marketing analytics solution delivering daily insights to business teams. Integrated Python scripts and Tableau dashboards for real-time marketing KPI tracking, improving campaign ROI by 15%. _(Showcased on personal portfolio)_
     
 - **Cloud Failure Prediction (“REACH” Project):** Co-authored _“REACH – Real-time Failure Prediction in Cloud”_ research, creating a machine learning model to predict cloud service failures in real-time. Improved prediction accuracy and informed proactive mitigation strategies in cloud data centers.  
-    
+
+| Project                                                            | Impact & Stack                                                                                           
+| --------------------------------------------------------------     | -------------------------------------------------------------------------------------------------------- 
+| ** Marketing Analytics Agents** – automated analytics pipeline**   | Python + Tableau; daily marketing KPIs; cut reporting cycle > 90 % & ↑ campaign ROI 15 %                 
+| **REACH: Real-time Cloud Failure Prediction**                      | ML & DL models on streaming system logs; ↑ failure-detection precision; enables proactive mitigation 
+| Sales & Marketing-Forecast & Analystics Engine (IFFCO)             | ML & DL models; ↓ forecast error 20 %; informs inventory/S\&OP                                        
+| Customer-Churn Model (Emirates Service)                            | Logistic + SHAP; flags at-risk leads; ↑ retention 5 %                                                    
+
 
 ### **Professional Experience:**
    
 - **CRM & Analytics Manager, Emirates Service** _(2018 – 2022, UAE)_ – **Drove digital transformation** initiatives focused on customer relationship management and process automation. Implemented a new CRM data dashboard (Power BI) to consolidate customer insights, improving lead conversion by 10%. Collaborated cross-functionally to integrate data solutions into marketing and service operations, demonstrating strong **communication and leadership** skills.
+- Launched Power BI CRM dashboard; ↑ lead-to-sale 10 %.
+- Built churn-prediction pipeline; actionable alerts cut attrition 5 %.
 
 - **Sales Development & Marketing Lead, IFFCO Group** _(2010 – 2018, Dubai UAE)_ – **Led development of advanced sales analytics and automation** in a leading FMCG conglomerate. Built predictive models for demand forecasting and CRM analytics, boosting sales forecast accuracy by 20%. Spearheaded an **AI-driven automation** project in supply chain, reducing manual reporting time by 30%. Managed a team of 5 data analysts, fostering a culture of data-driven decision-making.
 
