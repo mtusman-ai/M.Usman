@@ -1,5 +1,5 @@
 title: M. Usman
-logo: /assets/img/tu.png
+#logo: /assets/img/tu.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
