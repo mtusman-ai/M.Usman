@@ -1,6 +1,6 @@
 # Research & Data Scientist 
 ### Technical Skills
-- Python, SQL, R, Excel, Matlab
+- Python, SQL, R, Excel, Matlab, Tableau, Power BI 
 
 
 ### Education
