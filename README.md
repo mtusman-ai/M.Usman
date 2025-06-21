@@ -33,4 +33,5 @@ Python, R, SQL, Tableau, Power BI, Excel; Cloud Services (AWS); Machine Learning
     
 
 ### **Research & Publications:** 
-Co-authored a Springer **book chapter on Industrial IoT** (2024) addressing real-time energy analytics in smart manufacturing. Published paper **“REACH: Real-time Failure Prediction in Cloud”** (2023), bridging academic research with practical cloud reliability solutions. _(Full list of publications available on request.)_
+- Co-authored a Springer **book chapter on Industrial IoT** (2025) addressing real-time energy analytics in smart manufacturing. 
+- Published paper **“REACH: Real-time Failure Prediction in Cloud”** (2025), bridging academic research with practical cloud reliability solutions. _(Full list of publications available on request.)_
