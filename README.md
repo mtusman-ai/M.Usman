@@ -14,12 +14,14 @@ Python, R, SQL, Tableau, Power BI, Excel; Cloud Services (AWS); Machine Learning
     
 
 ### **Professional Experience:**
-
-- **Data Science Lead, IFFCO Group** _(2010 – 2018, Dubai UAE)_ – Led development of advanced sales analytics and automation in a leading FMCG conglomerate. Built predictive models for demand forecasting and CRM analytics, boosting sales forecast accuracy by 20%. Spearheaded an **AI-driven automation** project in supply chain, reducing manual reporting time by 30%. Managed a team of 5 data analysts, fostering a culture of data-driven decision-making.
-    
+   
 - **CRM & Analytics Manager, Emirates Service** _(2018 – 2022, UAE)_ – Drove digital transformation initiatives focused on customer relationship management and process automation. Implemented a new CRM data dashboard (Power BI) to consolidate customer insights, improving lead conversion by 10%. Collaborated cross-functionally to integrate data solutions into marketing and service operations, demonstrating strong **communication and leadership** skills.
+
+- ** Sales Development & Marketing Lead, IFFCO Group** _(2010 – 2018, Dubai UAE)_ – Led development of advanced sales analytics and automation in a leading FMCG conglomerate. Built predictive models for demand forecasting and CRM analytics, boosting sales forecast accuracy by 20%. Spearheaded an **AI-driven automation** project in supply chain, reducing manual reporting time by 30%. Managed a team of 5 data analysts, fostering a culture of data-driven decision-making.
+
+- **Planning & Availability Manager, Masafi Water LLC** _(2008 – 2009, MENA Region)_ – **Headed Masafi's planning and availability network**, leveraging data analysis to optimize production planning, route planning and inventory optimization. Managed strategic distribution initiatives with P&L responsibility, achieving consistent double-digit growth. Introduced analytics dashboards for key business functional performance tracking and automated reporting, enhancing decision speed for management.     
     
-- **Sales Development Manager, Nestlé** _(2004 – 202008, MENA Region)_ – **Headed development of Nestlé’s largest sales distribution network**, leveraging data analysis to optimize route planning and inventory. Managed strategic sales initiatives with P&L responsibility, achieving 2 consecutive years of double-digit growth. Introduced Excel-based analytics for key account performance tracking and automated reporting, enhancing decision speed for management.     
+- **Sales Development Manager, Nestlé** _(2004 – 2008)_ – **Headed development of Nestlé’s largest sales distribution network**, leveraging data analysis to optimize route planning and inventory. Managed strategic sales initiatives with P&L responsibility, achieving 2 consecutive years of double-digit growth. Introduced Excel-based analytics for key account performance tracking and automated reporting, enhancing decision speed for management.     
 
 ### **Education & Certifications:**
 
