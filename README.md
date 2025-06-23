@@ -1,6 +1,5 @@
 # _Seasoned Data Scientist & AI Researcher_ (Doctoral Researcher) 
-- LinkedIn Profile is available [https://www.linkedin.com/in/tariqusman/](here)
-
+- LinkedIn Profile is available @ [https://www.linkedin.com/in/tariqusman/]
 ### **Summary:** 
 Versatile data science professional with 16+ years in industry and academia. Expertise in machine learning, cloud computing, and Industrial IoT, with a track record of delivering AI solutions. Demonstrated success in **technical leadership** – from developing predictive models to automating analytics – and proven ability to lead cross-functional teams in deploying data-driven products. Published author in cloud/IoT research and currently pursuing a PhD in Cloud Computing (focus on FPGA acceleration & scheduling).
 
