@@ -31,7 +31,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
+url: https://mtusman-ai.github.io/M.Usman/ # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -637,20 +637,20 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-#jekyll_get_json:
-#  - data: resume
-#    json: assets/json/resume.json # it can also be an url
+jekyll_get_json:
+  - data: resume
+    json: assets/json/resume.json # it can also be an url
 
-#jsonresume:
-#  - basics
-#  - work
-#  - education
-#  - publications
-#  - projects
-#  - volunteer
-#  - awards
-#  - certificates
-#  - skills
-#  - languages
-#  - interests
-#  - references
+jsonresume:
+  - basics
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references
