@@ -18,12 +18,12 @@ nav_order: 5
 **Large Databases (MSc)**
 Hands-on labs and lectures covering relational database design, query optimisation, and large-scale data management. Topics include indexing strategies, transaction management, and working with production-scale datasets.
 
-→ [Module outline (PDF)](/M.Usman/assets/pdf/MSc-Large-Databases-Module-Outline.pdf): the six-unit arc, from the relational model to distributed, large-scale systems.
+→ [Module outline (PDF)](/M.Usman/assets/pdf/MSc-Large-Databases-Module-Outline.pdf): twelve one-hour lectures and twelve two-hour labs (36 contact hours), from the relational model to distributed, large-scale systems.
 
 **Data Mining (MSc)**
 Labs and lectures covering supervised and unsupervised learning techniques applied to real-world datasets: classification, clustering, association-rule mining, and evaluation methodology.
 
-→ [Module outline (PDF)](/M.Usman/assets/pdf/MSc-Data-Mining-Module-Outline.pdf): the six-unit arc, from data preparation to honest evaluation and scale.
+→ [Module outline (PDF)](/M.Usman/assets/pdf/MSc-Data-Mining-Module-Outline.pdf): twelve one-hour lectures and twelve two-hour labs (36 contact hours), from statistical foundations to honest evaluation and scale.
 
 ### Other contributions
 
