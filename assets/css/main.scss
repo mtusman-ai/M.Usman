@@ -1,0 +1,78 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ============================================================================
+   Brand override — "Architect's Blueprint"
+   Maps al-folio theme variables to 00-Profile/brand-tokens.json.
+   Source of truth: 00-Profile/brand-tokens.json + 00-Profile/Brand-Guide.md.
+   These rules come AFTER @use "themes", so they win by source order.
+   Tokens: ink #0b2545 · signal #2a6f97 · signal_light #5aa6d6 ·
+           pulse #1b998b · canvas #f4f6f9 · graphite #5c6b7a · frost #e8edf2
+   ============================================================================ */
+
+:root {
+  --global-theme-color: #2a6f97;        /* signal — links, accents, section rules */
+  --global-hover-color: #0b2545;        /* ink — link hover (darkens to navy) */
+  --global-highlight-color: #1b998b;    /* pulse — sparing data highlight */
+  --global-footer-bg-color: #0b2545;    /* ink — navy footer */
+  --global-footer-text-color: #e8edf2;  /* frost */
+  --global-footer-link-color: #e8edf2;  /* frost */
+
+  /* Bootstrap-compat body font variable, if present in the base layer */
+  --bs-body-font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #5aa6d6;        /* signal_light — links readable on dark */
+  --global-hover-color: #e8edf2;        /* frost — brighten on hover */
+  --global-highlight-color: #1b998b;    /* pulse */
+}
+
+/* Typography — Space Grotesk (display) / Inter (body) / JetBrains Mono (code).
+   Icon fonts (Font Awesome, Material Icons) declare their own family and are
+   deliberately not touched here. */
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.post-title, .post .post-title,
+.profile .name, .navbar-brand {
+  font-family: "Space Grotesk", "Inter", system-ui, sans-serif;
+}
+
+code, pre, kbd, samp, tt,
+.highlight, .highlighter-rouge {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}

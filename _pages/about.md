@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Architect & Applied-AI Researcher · PhD Computer Science (Huddersfield)
+subtitle: Data Architect & Applied-AI Researcher · From enterprise data to production AI.
 
 profile:
   align: right
