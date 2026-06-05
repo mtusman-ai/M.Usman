@@ -1,16 +1,17 @@
 # Structured CV data for the al-folio /cv page (RenderCV format; cv_format: rendercv).
 cv:
   name: M Usman
-  label: Senior Data Scientist & AI Researcher
+  label: Data Architect & Applied-AI Researcher
   email: mt_usman@outlook.com
   location: West Yorkshire, UK
   image: ""
   summary: >
-    Senior Data Scientist with 18+ years of commercial leadership in MENA FMCG
-    (Nestlé, Masafi, IFFCO, Emirate Service) and PhD-track research in failure-aware
-    real-time scheduling for heterogeneous cloud. Available for Senior or Principal
-    Data Scientist and AI Lead roles in the UK from thesis completion (towards end of
-    2026). Eligible for Skilled Worker sponsorship.
+    Data architect and applied-AI researcher with 18+ years leading enterprise data
+    and analytics across MENA FMCG (Nestlé, Masafi, IFFCO, Emirate Service): Oracle and
+    SAP ERP programmes, Master Data Management, and end-to-end BI on Tableau and QlikView.
+    PhD research builds failure-aware, real-time AI schedulers for heterogeneous cloud.
+    Available for senior data architecture, data engineering, and applied-AI roles in the
+    UK from thesis completion (towards end of 2026). Eligible for Skilled Worker sponsorship.
 
   social_networks:
     - network: LinkedIn
@@ -103,7 +104,7 @@ cv:
           - "Managed an FMCG portfolio with AED 3B+ annual revenue, delivering approximately 21% CAGR over 7 years."
           - "3-year route-to-market strategy boosted regional sales by 32% and profits by 19%."
           - "Led the Oracle ERP programme (Fujitsu SI): Oracle CRM, WMS, OTM, and Demantra; authored specs, owned UAT, drove change management across GCC and Levant."
-          - "Designed an enterprise analytics suite end-to-end on Tableau and QlikView; implemented Master Data Management and data-nomenclature standards."
+          - "Designed the enterprise analytics suite on Tableau and QlikView, end to end; implemented Master Data Management and data-nomenclature standards."
           - "Led and mentored a sales team of 50+; doubled sales in key regions (+107% YoY)."
       - company: Sales & Distribution Start-Up
         position: General Manager — Sales Marketing
