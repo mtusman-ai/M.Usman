@@ -46,6 +46,8 @@ cv:
         location: Pakistan
         area: Business Administration
         studyType: MBA
+        start_date: 2001
+        end_date: 2003
       - institution: BCS, The Chartered Institute for IT
         area: Professional Member
         studyType: Membership
