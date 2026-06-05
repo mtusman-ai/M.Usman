@@ -37,13 +37,13 @@ I'm **M Usman**, a data architect and applied-AI researcher. My 18+ years leadin
 <li>Failure predictor (REACH-FP): deep-learning task-failure model</li>
 <li>Knowledge graphs: NLP entity extraction; healthcare KG seminar</li>
 <li>Semantic Web: OWL ontology engineering (MSc, Distinction)</li>
-<li>Journal under review (IEEE Access) + Springer chapter forthcoming</li>
+<li>Journal under review (IEEE Access) + Springer chapter awaiting publication</li>
 </ul>
 </div>
 </noscript>
 <script defer src="{{ '/assets/js/mu-highlights.js' | relative_url }}"></script>
 
-That research, **REACH**, develops a failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud. The work integrates a learned failure-prediction model (REACH-FP) into per-decision task allocation and mapping, using graph attention networks (FA-GAT family), deadline-aware migration (DAMP), and EDF-based admission control, with 33 algorithms evaluated on the REACHsim simulator. A journal article on deep-learning task-failure prediction in cloud data centres is under review at IEEE Access, and I co-authored a Springer book chapter on Industrial IoT for Smart Energy Management, forthcoming (2024/25). 
+That research, **REACH**, develops a failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud. The work integrates a learned failure-prediction model (REACH-FP) into per-decision task allocation and mapping, using graph attention networks (FA-GAT family), deadline-aware migration (DAMP), and EDF-based admission control, with 33 algorithms evaluated on the REACHsim simulator. A journal article on deep-learning task-failure prediction in cloud data centres is under review at IEEE Access, and I co-authored a Springer book chapter on Industrial IoT for Smart Energy Management (2024/25, awaiting publication). 
 
 Before returning to research, I led data-driven sales and analytics functions across MENA FMCG. At **IFFCO Group** I managed an AED 3B+ portfolio at approximately 21% CAGR over seven years, leading a team of 50+. I directed the Oracle ERP programme with Fujitsu as system integrator (CRM, WMS, OTM, and Demantra modules), built an enterprise analytics suite, end to end, on Tableau and QlikView, and set Master Data Management and data-nomenclature standards across the Oracle estate. At **Emirate Service** I grew sales volume by 60% through analytics-driven distribution and marketing activations. Earlier roles at **Masafi LLC** and **Nestlé Pakistan** built nationwide distribution infrastructure, S&OP design, and ERP data discipline (Oracle with a local SI at Masafi; SAP with IBM at Nestlé).
 
