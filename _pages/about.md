@@ -55,4 +55,4 @@ My next role is a **senior data architecture or data-engineering** position in t
 - [Projects](/M.Usman/projects/)
 - [Code on GitHub](https://github.com/mtusman-ai): four reproducible ML repositories, each running end to end under CI.
 
-I am eligible for UK Skilled Worker sponsorship on graduation (thesis submission towards end of 2026) and currently hold a Student visa. I am equally at home in applied-AI organisations and research institutions. 
+I want to work with applied-AI organisations and research institutions where data is treated as a first-class asset, contributing the enterprise depth I have built and continuing to sharpen it on harder problems.
