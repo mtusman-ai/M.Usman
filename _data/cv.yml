@@ -1,10 +1,4 @@
-# Structured CV data for al-folio /cv page.
-# Authoritative source: 00-Profile/Master-Profile.md.
-# DO NOT add the private 2020+ Manchester role here under any circumstance.
-# STYLE-OVERRIDE: en-dashes in 'year:' date-range fields are the al-folio template
-# convention; em-dashes retained only inside verbatim org/role names
-# (BCS — The Chartered Institute for IT; Mid Yorkshire Teaching NHS Trust — Dewsbury
-# & District Hospital; General Manager — Sales Marketing).
+# Structured CV data for the al-folio /cv page.
 
 - title: Basics
   type: map
@@ -54,7 +48,6 @@
       year: Jan 2023 – Present
       description:
         - Designing REACH&#58; failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud.
-        # <!-- STYLE-OVERRIDE: "utilisation bounds" is the canonical real-time-scheduling term (Liu-Layland 1973); matches Master-Profile L159 -->
         - Methods&#58; graph attention networks (FA-GAT family), deadline-aware migration (DAMP), Liu–Layland and EDF utilisation bounds, DMR as empirical sufficiency.
         - 33 algorithms under empirical evaluation against REACHsim.
         - Co-author, Springer book chapter on Industrial IoT for Smart Energy Management (2024/25).
