@@ -15,7 +15,7 @@ horizontal: false
 
 REACH is my doctoral programme: a scheduling framework for heterogeneous CPU+GPU+FPGA cloud that folds a learned failure-prediction model (REACH-FP) into per-decision task allocation and mapping.
 
-- **Methods.** Graph attention networks (FA-GAT family); deadline-aware migration (DAMP); Liu–Layland and EDF utilisation bounds as admission conditions; DMR as empirical multiprocessor sufficiency.
+- **Methods.** Graph attention networks (FA-GAT family); deadline-aware migration (DAMP); Liu–Layland and EDF schedulability bounds as admission conditions; DMR as empirical multiprocessor sufficiency.
 - **Evaluation.** 33 algorithms under empirical evaluation against the REACHsim simulator.
 - **Status.** Scheduler and simulator validation in progress; thesis submission towards end of 2026. The simulator and the failure-prediction model are not yet public; the method is described in the journal article currently under review: see [Publications](/M.Usman/publications/).
 

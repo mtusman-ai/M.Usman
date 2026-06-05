@@ -4,6 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
+cv_format: rendercv
 description: Senior Data Scientist / AI Lead, UK-based. Available for Skilled Worker sponsorship from thesis completion towards end of 2026.
 toc:
   sidebar: left

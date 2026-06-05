@@ -1,127 +1,163 @@
-# Structured CV data for the al-folio /cv page.
+# Structured CV data for the al-folio /cv page (RenderCV format; cv_format: rendercv).
+cv:
+  name: M Usman
+  label: Senior Data Scientist & AI Researcher
+  email: mt_usman@outlook.com
+  location: West Yorkshire, UK
+  image: ""
+  summary: >
+    Senior Data Scientist with 18+ years of commercial leadership in MENA FMCG
+    (Nestlé, Masafi, IFFCO, Emirate Service) and PhD-track research in failure-aware
+    real-time scheduling for heterogeneous cloud. Available for Senior or Principal
+    Data Scientist and AI Lead roles in the UK from thesis completion (towards end of
+    2026). Eligible for Skilled Worker sponsorship.
 
-- title: Basics
-  type: map
-  contents:
-    - name: Name
-      value: M Usman
-    - name: Location
-      value: West Yorkshire, United Kingdom
-    - name: Email
-      value: <a href="mailto:mt_usman@outlook.com">mt_usman@outlook.com</a>
-    - name: LinkedIn
-      value: <a href="https://www.linkedin.com/in/tariqusman/">linkedin.com/in/tariqusman</a>
-    - name: GitHub
-      value: <a href="https://github.com/mtusman-ai">github.com/mtusman-ai</a>
-    - name: Languages
-      value: English (Fluent) · Urdu (Native) · Arabic (Basic)
+  social_networks:
+    - network: LinkedIn
+      username: tariqusman
+    - network: GitHub
+      username: mtusman-ai
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD Computer Science (Heterogeneous Cloud & Machine Learning)
-      institution: University of Huddersfield, UK
-      year: Jan 2023 – Present
-      description:
-        - Thesis (REACH)&#58; real-time, failure-aware task allocation/mapping in heterogeneous CPU+GPU+FPGA cloud.
-        - Submission towards end of 2026.
-    - title: MSc Computing
-      institution: University of Huddersfield, UK
-      year: Dec 2020 – Mar 2022
-      description:
-        - Distinction.
-    - title: MBA International Management
-      institution: Royal Holloway, University of London
-      year: Apr 2013 – Oct 2015
-    - title: MBA
-      institution: Bahauddin Zakariya University, Pakistan
-      year: ""
-    - title: Member, BCS — The Chartered Institute for IT
-      institution: ""
-      year: 2021 – Present
+  sections:
+    Education:
+      - institution: University of Huddersfield
+        location: Huddersfield, UK
+        area: Computer Science (Heterogeneous Cloud & Machine Learning)
+        studyType: PhD
+        start_date: 2023-01
+        end_date: present
+        highlights:
+          - "Thesis (REACH): real-time, failure-aware task allocation and mapping in heterogeneous CPU+GPU+FPGA cloud."
+          - "Submission towards end of 2026."
+      - institution: University of Huddersfield
+        location: Huddersfield, UK
+        area: Computing
+        studyType: MSc
+        start_date: 2020-12
+        end_date: 2022-03
+        score: Distinction
+      - institution: Royal Holloway, University of London
+        location: London, UK
+        area: International Management
+        studyType: MBA
+        start_date: 2013-04
+        end_date: 2015-10
+      - institution: Bahauddin Zakariya University
+        location: Pakistan
+        area: Business Administration
+        studyType: MBA
+      - institution: BCS, The Chartered Institute for IT
+        area: Professional Member
+        studyType: Membership
+        start_date: 2021
+        end_date: present
+      - institution: IEEE, Institute of Electrical and Electronics Engineers
+        area: Student Member
+        studyType: Membership
+        start_date: 2023
+        end_date: present
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Doctoral Researcher
-      institution: University of Huddersfield, UK
-      year: Jan 2023 – Present
-      description:
-        - Designing REACH&#58; failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud.
-        - Methods&#58; graph attention networks (FA-GAT family), deadline-aware migration (DAMP), Liu–Layland and EDF utilisation bounds, DMR as empirical sufficiency.
-        - 33 algorithms under empirical evaluation against REACHsim.
-        - Co-author, Springer book chapter on Industrial IoT for Smart Energy Management (2024/25).
-    - title: Teaching Assistant
-      institution: University of Huddersfield, UK
-      year: Sep 2022 – Present
-      description:
-        - Deliver postgraduate MSc labs and lectures in Large Databases and Data Mining.
-        - Mentor MSc dissertation students.
-    - title: Patient Liaison Support Volunteer (PALS)
-      institution: Mid Yorkshire Teaching NHS Trust — Dewsbury &amp; District Hospital
-      year: Apr 2025 – Dec 2025
-      description:
-        - Patient-facing PALS volunteer&#58; supported ward information flow, answered visitor queries, and assisted with repatriation of patient property.
-    - title: Sales &amp; Marketing Leader
-      institution: Emirate Service, Dubai, UAE
-      year: Apr 2018 – Dec 2020
-      description:
-        - Exceeded revenue targets by 10%; grew sales volume by 60% through analytics-driven distribution and activations.
-        - Built and executed a go-to-market strategy for food and non-food portfolios, delivering a 25% sales increase within one year.
-        - Implemented CRM and e-commerce platforms; integrated digital marketing and sales-automation pipelines.
-    - title: Sales &amp; Customer Marketing Manager
-      institution: IFFCO Group, UAE
-      year: Dec 2010 – Mar 2018
-      description:
-        - Managed an FMCG portfolio with AED 3B+ annual revenue, delivering approximately 21% CAGR over 7 years.
-        - 3-year route-to-market strategy boosted regional sales by 32% and profits by 19%.
-        - Led Oracle ERP programme (Fujitsu SI)&#58; Oracle CRM, WMS, OTM, and Demantra modules; authored specs, owned UAT, drove change management across GCC and Levant.
-        - Designed enterprise analytics suite end-to-end on Tableau and QlikView; implemented Master Data Management and data-nomenclature standards.
-        - Led and mentored a sales team of 50+; doubled sales in key regions (+107% YoY).
-    - title: General Manager — Sales Marketing
-      institution: Sales &amp; Distribution Start-Up, UAE
-      year: Jul 2009 – Dec 2010
-    - title: Planning &amp; Customer Service Head
-      institution: Masafi LLC, UAE
-      year: Jul 2008 – Jun 2009
-      description:
-        - Designed and implemented the S&amp;OP process; managed nationwide distribution, export logistics, demand-supply planning, and warehouse infrastructure.
-        - Contributed to Oracle ERP implementation (local SI)&#58; WMS, Transportation, and Demantra modules alongside SAP HANA and BI for analytics.
-    - title: Head of Distribution
-      institution: Nestlé, Pakistan
-      year: Jun 2004 – Jul 2008
-      description:
-        - Led nationwide distribution development for Nestlé Pakistan; introduced infrastructure and analytics that became Nestlé's regional benchmark for distribution performance.
-        - Contributed to SAP rollout (IBM SI)&#58; Distribution, WMS, Transportation, SAP HANA, and BI modules.
-        - Managed CAPEX + OPEX budgets with bottom-up performance tracking.
+    Experience:
+      - company: University of Huddersfield
+        position: Doctoral Researcher
+        location: Huddersfield, UK
+        start_date: 2023-01
+        end_date: present
+        highlights:
+          - "Designing REACH: a failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud."
+          - "Methods: graph attention networks (FA-GAT family), deadline-aware migration (DAMP), Liu–Layland and EDF schedulability bounds, DMR as empirical sufficiency."
+          - "33 algorithms under empirical evaluation against the REACHsim simulator."
+          - "Co-author, Springer book chapter on Industrial IoT for Smart Energy Management (forthcoming, 2024/25)."
+      - company: University of Huddersfield
+        position: Teaching Assistant
+        location: Huddersfield, UK
+        start_date: 2022-09
+        end_date: present
+        highlights:
+          - "Deliver postgraduate MSc labs and lectures in Large Databases and Data Mining."
+          - "Mentor MSc dissertation students."
+      - company: Mid Yorkshire Teaching NHS Trust — Dewsbury & District Hospital
+        position: Patient Liaison Support Volunteer (PALS)
+        location: Dewsbury, UK
+        start_date: 2025-04
+        end_date: 2025-12
+        highlights:
+          - "Supported ward information flow, answered visitor queries, and assisted with repatriation of patient property."
+      - company: Emirate Service
+        position: Sales & Marketing Leader
+        location: Dubai, UAE
+        start_date: 2018-04
+        end_date: 2020-12
+        highlights:
+          - "Exceeded revenue targets by 10%; grew sales volume by 60% through analytics-driven distribution and activations."
+          - "Built and executed a go-to-market strategy for food and non-food portfolios, delivering a 25% sales increase within one year."
+          - "Implemented CRM and e-commerce platforms; integrated digital marketing and sales-automation pipelines."
+      - company: IFFCO Group
+        position: Sales & Customer Marketing Manager
+        location: UAE
+        start_date: 2010-12
+        end_date: 2018-03
+        highlights:
+          - "Managed an FMCG portfolio with AED 3B+ annual revenue, delivering approximately 21% CAGR over 7 years."
+          - "3-year route-to-market strategy boosted regional sales by 32% and profits by 19%."
+          - "Led the Oracle ERP programme (Fujitsu SI): Oracle CRM, WMS, OTM, and Demantra; authored specs, owned UAT, drove change management across GCC and Levant."
+          - "Designed an enterprise analytics suite end-to-end on Tableau and QlikView; implemented Master Data Management and data-nomenclature standards."
+          - "Led and mentored a sales team of 50+; doubled sales in key regions (+107% YoY)."
+      - company: Sales & Distribution Start-Up
+        position: General Manager — Sales Marketing
+        location: UAE
+        start_date: 2009-07
+        end_date: 2010-12
+      - company: Masafi LLC
+        position: Planning & Customer Service Head
+        location: UAE
+        start_date: 2008-07
+        end_date: 2009-06
+        highlights:
+          - "Designed and implemented the S&OP process; managed nationwide distribution, export logistics, demand-supply planning, and warehouse infrastructure."
+          - "Contributed to Oracle ERP implementation (local SI): WMS, Transportation, and Demantra, alongside SAP HANA and BI for analytics."
+      - company: Nestlé
+        position: Head of Distribution
+        location: Pakistan
+        start_date: 2004-06
+        end_date: 2008-07
+        highlights:
+          - "Led nationwide distribution development for Nestlé Pakistan; introduced infrastructure and analytics that became a regional benchmark for distribution performance."
+          - "Contributed to the SAP rollout (IBM SI): Distribution, WMS, Transportation, SAP HANA, and BI."
+          - "Managed CAPEX and OPEX budgets with bottom-up performance tracking."
 
-- title: Publications
-  type: list
-  contents:
-    - <em>Industrial Internet of Things for Smart Energy Management</em>. Co-authored book chapter, Springer, forthcoming (2024/25).
-    - Journal article on cloud task-failure prediction. IEEE Access, under review.
+    Publications:
+      - title: Industrial Internet of Things for Smart Energy Management
+        authors:
+          - M Usman and others
+        publisher: Springer book chapter
+        summary: "Forthcoming (2024/25)."
+      - title: Deep-learning task-failure prediction in cloud data centres
+        authors:
+          - M Usman and others
+        publisher: IEEE Access
+        summary: "Under review; final title to be confirmed."
 
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Programming & Data
-      items:
-        - Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch); R; SQL (MySQL, PostgreSQL).
-    - title: Cloud & MLOps
-      items:
-        - AWS, GCP, Azure; heterogeneous CPU+GPU+FPGA; Docker, Linux, Git.
-    - title: Modelling & ML
-      items:
-        - Classification, regression, time-series, deep learning, graph neural networks (GAT); real-time scheduling theory (EDF, Liu–Layland); failure prediction; simulation (SimPy).
-    - title: NLP & Text Analytics
-      items:
-        - Sentiment analysis (lexicon&#58; TextBlob, VADER, SentiWordNet; classical ML&#58; SVM, Naïve Bayes, LR, RF; deep learning&#58; BERT, BiLSTM, GRU); word embeddings (TF-IDF, Word2Vec, Doc2Vec); named-entity extraction; knowledge-graph construction; SMOTE.
-    - title: BI & Visualisation
-      items:
-        - Tableau, QlikView, Power BI, Matplotlib/Seaborn; advanced Excel (Power Pivot).
-    - title: Enterprise
-      items:
-        - Oracle ERP at IFFCO with Fujitsu SI (CRM, WMS, OTM, Demantra); Oracle at Masafi with a local SI (WMS, Transportation, Demantra) plus SAP HANA and BI; SAP at Nestlé with IBM SI (Distribution, WMS, Transportation, HANA, BI).
-    - title: Domain & Leadership
-      items:
-        - GTM/RTM strategy; CRM and ERP implementation; Master Data Management; forecasting and budgeting; P&L accountability; cross-functional team leadership (50+); cross-cultural execution (MENA / UAE / Pakistan).
+    Skills:
+      - name: Programming & Data
+        keywords: "Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch); R; SQL (MySQL, PostgreSQL)"
+      - name: Cloud & MLOps
+        keywords: "AWS, GCP, Azure; heterogeneous CPU+GPU+FPGA; Docker, Linux, Git"
+      - name: Modelling & ML
+        keywords: "Classification, regression, time-series, deep learning, graph neural networks (GAT); real-time scheduling theory (EDF, Liu–Layland); failure prediction; simulation (SimPy)"
+      - name: NLP & Text Analytics
+        keywords: "Sentiment analysis (TextBlob, VADER, SentiWordNet; SVM, Naïve Bayes, LR, RF; BERT, BiLSTM, GRU); word embeddings (TF-IDF, Word2Vec, Doc2Vec); named-entity extraction; knowledge-graph construction; SMOTE"
+      - name: BI & Visualisation
+        keywords: "Tableau, QlikView, Power BI, Matplotlib/Seaborn; advanced Excel (Power Pivot)"
+      - name: Enterprise
+        keywords: "Oracle ERP (CRM, WMS, OTM, Demantra) at IFFCO with Fujitsu SI; Oracle (WMS, Transportation, Demantra) plus SAP HANA and BI at Masafi; SAP (Distribution, WMS, Transportation, HANA, BI) at Nestlé with IBM SI"
+      - name: Domain & Leadership
+        keywords: "Go-to-market and route-to-market strategy; CRM and ERP implementation; Master Data Management; forecasting and budgeting; P&L accountability; cross-functional team leadership (50+); cross-cultural execution (MENA, UAE, Pakistan)"
+
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Urdu
+        summary: Native
+      - name: Arabic
+        summary: Basic
