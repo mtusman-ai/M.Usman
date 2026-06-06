@@ -14,3 +14,9 @@ Short, researched perspectives on the problems that decide whether AI reaches pr
 Why most AI work stalls before production, and the pipeline that ships it. A four-stage walk from the governed data foundation to a monitored, self-correcting deployment, with the practical steps, the common pitfalls, and a readiness ladder for honest self-assessment.
 
 → [Read the deck (PDF)](/M.Usman/assets/pdf/From-Enterprise-Data-to-Production-AI.pdf)
+
+### Proactive, resource-aware AI for industrial systems
+
+From reacting to failure to pre-empting it. A four-stage walk from the sensor signal foundation to a model that runs on the asset, inside its compute and deadline budget, with the practical steps, the common pitfalls, and a maturity ladder from reacting to pre-empting.
+
+→ [Read the deck (PDF)](/M.Usman/assets/pdf/Proactive-Resource-Aware-AI-for-Industrial-Systems.pdf)
