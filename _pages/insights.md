@@ -20,3 +20,9 @@ Why most AI work stalls before production, and the pipeline that ships it. A fou
 From reacting to failure to pre-empting it. A four-stage walk from the sensor signal foundation to a model that runs on the asset, inside its compute and deadline budget, with the practical steps, the common pitfalls, and a maturity ladder from reacting to pre-empting.
 
 → [Read the deck (PDF)](/M.Usman/assets/pdf/Proactive-Resource-Aware-AI-for-Industrial-Systems.pdf)
+
+### Graph intelligence: when the relationships are the data
+
+The signal in a fraud ring, an ownership chain, or a lateral-movement path is a pattern across many records, not any single row. A four-stage walk from modelling a domain as a graph, through entity resolution and graph learning, to an explained score, with the practical steps, the common pitfalls, and a maturity ladder from tables to graph learning.
+
+→ [Read the deck (PDF)](/M.Usman/assets/pdf/Graph-Intelligence-When-Relationships-Are-the-Data.pdf)
