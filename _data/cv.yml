@@ -70,7 +70,7 @@ cv:
           - "Designing REACH: a failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud."
           - "Methods: graph attention networks (FA-GAT family), deadline-aware migration (DAMP), Liu–Layland and EDF schedulability bounds, DMR as empirical sufficiency."
           - "33 algorithms under empirical evaluation against the REACHsim simulator."
-          - "Co-author, Springer book chapter on Industrial IoT for Smart Energy Management (forthcoming, 2024/25)."
+          - "Co-author, Springer book chapter on Industrial IoT for Smart Energy Management (2024/25, published link/DOI to confirm)."
       - company: University of Huddersfield
         position: Teaching Assistant
         location: Huddersfield, UK
@@ -129,17 +129,38 @@ cv:
           - "Contributed to the SAP rollout (IBM SI): Distribution, WMS, Transportation, SAP HANA, and BI."
           - "Managed CAPEX and OPEX budgets with bottom-up performance tracking."
 
+    Projects:
+      - name: "sentiment-rag-service"
+        summary: >
+          End-to-end NLP service: a sentiment classifier extended with a
+          retrieval-augmented-generation (RAG) layer, served behind a containerised
+          FastAPI API with CI. Served baselines 0.768 (Naïve Bayes) and 0.834 (VADER)
+          on the public NLTK twitter_samples set.
+      - name: "timeseries-forecasting"
+        summary: >
+          Direct multi-horizon forecasting on the public ETTh1 benchmark, served behind
+          an API with CI; an honest back-test shows gradient boosting leading at short
+          horizons (1h, 6h) and persistence and seasonal baselines stronger from 12h out.
+      - name: "heart-failure-clinical-ml (R)"
+        summary: >
+          Reproducible R/tidymodels mortality prediction on the UCI Heart Failure Clinical
+          Records set; admission-only random forest ROC AUC 0.730, with explicit leakage handling.
+      - name: "heart-failure-clinical-ml-py"
+        summary: >
+          The scikit-learn companion and a Data Mining teaching example; admission-only
+          random forest ROC AUC 0.817 (10-fold cross-validation mean 0.771).
+
     Publications:
       - title: Industrial Internet of Things for Smart Energy Management
         authors:
           - M Usman and others
         publisher: Springer book chapter
-        summary: "Forthcoming (2024/25)."
+        summary: "2024/25; published link/DOI to confirm."
       - title: Deep-learning task-failure prediction in cloud data centres
         authors:
           - M Usman and others
         publisher: IEEE Access
-        summary: "Under review; final title to be confirmed."
+        summary: "Pending publication; final title to be confirmed."
 
     Skills:
       - name: Programming & Data
@@ -149,7 +170,7 @@ cv:
       - name: Modelling & ML
         keywords: "Classification, regression, time-series, deep learning, graph neural networks (GAT); real-time scheduling theory (EDF, Liu–Layland); failure prediction; simulation (SimPy)"
       - name: NLP & Text Analytics
-        keywords: "Sentiment analysis (TextBlob, VADER, SentiWordNet; SVM, Naïve Bayes, LR, RF; BERT, BiLSTM, GRU); word embeddings (TF-IDF, Word2Vec, Doc2Vec); named-entity extraction; knowledge-graph construction; SMOTE"
+        keywords: "Sentiment analysis (TextBlob, VADER, SentiWordNet; SVM, Naïve Bayes, LR, RF; BERT, BiLSTM, GRU); retrieval-augmented generation (RAG, served); word embeddings (TF-IDF, Word2Vec, Doc2Vec); named-entity extraction; knowledge-graph construction; SMOTE"
       - name: BI & Visualisation
         keywords: "Tableau, QlikView, Power BI, Matplotlib/Seaborn; advanced Excel (Power Pivot)"
       - name: Enterprise
