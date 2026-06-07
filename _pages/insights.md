@@ -32,3 +32,15 @@ The signal in a fraud ring, an ownership chain, or a lateral-movement path is a 
 Data architect, data engineer, data analyst, data scientist: four titles that slide around between employers, mapped onto the four stable stages of the work, from designing the data foundation to deciding what to do with it. For each role, what it owns, what it ships, how it is measured, its tech stack, and the path that builds it, with two diagrams of the shared value chain and the skill ladder every data role climbs.
 
 → [Read the deck (PDF)](/M.Usman/assets/pdf/The-Four-Data-Professions.pdf)
+
+### The data engineer, in depth
+
+Building and moving the data every other role runs on. A close look at the engineer's four stages, ingest, model and store, transform and test, orchestrate and observe, with the practical steps, the common pitfalls, the ladder from junior to architect, and the roadmap the role climbs.
+
+→ [Read the deck (PDF)](/M.Usman/assets/pdf/The-Data-Engineer-In-Depth.pdf)
+
+### The data scientist, in depth
+
+Turning governed data into a prediction that survives production. A close look at the scientist's four stages, frame, feature, model and evaluate, serve and monitor, with the specialisms that get you hired, the honest-evaluation discipline that keeps a model real, the ladder from analyst to principal, and the roadmap the role climbs.
+
+→ [Read the deck (PDF)](/M.Usman/assets/pdf/The-Data-Scientist-In-Depth.pdf)
