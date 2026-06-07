@@ -10,6 +10,8 @@ nav: false
 
 ---
 
+![Signal to Decision — 2026 so far. The data layer won the race: the model commoditised, and the value moved to data and governance.](/M.Usman/assets/img/s2d-2026-so-far-header.png)
+
 # Signal to Decision — 2026 so far
 
 The launch edition: the year to 6 June 2026, read the way the Insights profession reads it. From July, each edition reviews a complete calendar month, published in the first week of the next.
@@ -59,6 +61,8 @@ Compliance stopped being abstract. The EU AI Act's transparency obligations, inc
 ## Insight: the model was never the bottleneck
 
 Read across the whole half and the through-lines tell one story. Every launch promised systems that act on enterprise data, and the production failure mode held throughout: the system is fluent and wrong, because it cannot see governed, current, correctly-defined business context. With frontier capability now cheap and close to commoditised, the model is the last thing that separates a working deployment from a broken one.
+
+![Where the bottleneck actually sits: a data-to-decision flow. The frontier model is commoditised; the governed context (definitions, lineage, permissions) is the real bottleneck; the agent in production is only as good as its context; the trusted decision is the outcome that matters. Gartner forecasts roughly 40 per cent of enterprise applications will embed task-specific agents by the end of 2026, up from under five per cent in 2025.](/M.Usman/assets/img/s2d-2026-so-far-infographic.png)
 
 A decade ago the same pattern held in ERP-to-analytics work. Reporting was never blocked by the BI tool. It was blocked by definitions, by lineage, and by the copy step between the system of record and the place people analysed it. The first half of 2026 is that lesson re-learned at scale and, for once, funded: the money moved to master data, to context layers, to zero-copy sharing and to governance, not to the model.
 
