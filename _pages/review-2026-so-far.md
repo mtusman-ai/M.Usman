@@ -14,90 +14,103 @@ nav: false
 
 # Signal to Decision — 2026 so far
 
-The launch edition: the year to 6 June 2026, read the way the Insights profession reads it. From July, each edition reviews a complete calendar month, published in the first week of the next.
+The launch edition. The year to 6 June 2026, read the way the Insights profession reads it. From July, each edition covers one calendar month and lands in the first week of the next.
 
 ---
 
 ## The year in one line
 
-The first half of 2026 made one thing plain. The frontier models got faster, cheaper and more open, and the value moved to the data and governance layer underneath them. Agents reached production. The boardroom finally started paying for the foundation that decides whether they can be trusted.
+The first half of 2026 settled one question. The model stopped being the hard part. Models got faster, cheaper and more open, and the value moved down to the data and governance layer beneath them. Agents reached production. The boardroom finally started paying for the foundation that decides whether they can be trusted.
 
 ---
 
-## The through-lines of the year so far
+## Four frontier models in five weeks
 
-### 1. The model race compressed, and the value left the model
+The loud story of the half was the models, and they arrived almost on top of each other. OpenAI shipped GPT-5.5 on 23 April. DeepSeek released V4 the next day, open-weight and priced at a fraction of the rest. Google launched Gemini 3.5 at its I/O event on 19 May. Anthropic followed with Claude Opus 4.8 on 28 May. Four frontier-grade releases in about five weeks.
 
-The opening months of 2026 ran the most compressed frontier-release cycle the field has seen. Google's Gemini 3 line, OpenAI's GPT-5 series and Anthropic's Claude Opus all shipped major updates within weeks of each other in the spring. An open-weight DeepSeek V4, priced at a fraction of the incumbents and reported to run on Chinese silicon (Huawei's Ascend line) rather than NVIDIA's, landed in the same window. The capabilities converged on the same things: longer context, multi-step reasoning, multimodal input. Price did not converge. The story of the half was not a single winning model, it was that frontier-grade capability became cheap, fast and increasingly open.
+They converged on the same abilities. Longer memory, step-by-step reasoning, and handling text, images and audio in one model. What did not converge was price. DeepSeek's open weights, which anyone can download and run on their own hardware, made the point hardest of all. Frontier-grade capability is now cheap, fast and increasingly open.
 
-**The MU read:** when the model stops being the differentiator, the enterprise question is no longer which model, it is what you feed it and what you let it touch. Model choice is becoming a procurement detail; the data around it is the strategy.
-
-### 2. Agents crossed into production, and governance became the gate
-
-Agents were the pilot category of 2025. In 2026 they crossed into production. Gartner's reading is that roughly 40 per cent of enterprise applications will embed task-specific agents by the end of the year, up from under five per cent in 2025. Enterprise surveys through the half put about a third of organisations with at least one agent already running. Banking and insurance led; healthcare and government trailed. The control function moved with the technology: a majority of enterprises now name a dedicated agent owner or agentic-ops lead, a role that barely existed two years ago. The same analysts carry the warning that a large share of agentic projects will be scrapped by 2027 on cost, unclear value and weak controls.
-
-**The MU read:** the dividing line, as the half ends, is not who has agents, it is who governs them. The organisations scaling are the ones that built the audit trail and the permission model first. The ones rebuilding those foundations now are paying for them twice.
-
-### 3. The data foundation became a budget line
-
-For years the data foundation was the slide everyone agreed with and no one funded. In 2026 it got a budget. The loudest marker was SAP's acquisition of Reltio, a master-data management company, announced in March and completed in May, bought to make enterprise data ready for AI. The quieter one is that master data, governance and identity resolution now make up a reported sixteen per cent of enterprise AI spend, the third-largest line. The reason is blunt: surveys through the half name data quality as the single biggest blocker to shipping an agent. Cost discipline followed the same path, moving from a niche idea to standard practice across almost every team that runs models. The unglamorous layer finally has a price tag.
-
-**The MU read:** this is the half the Insights profession was waiting for. The work that used to be invisible, defining a metric, tracing its lineage, deciding what a system can see, is now a funded, board-level line, because it is what decides whether an agent's answer can be trusted.
-
-### 4. Intelligence became infrastructure
-
-The framing that stuck to 2026 is that intelligence became infrastructure. The silicon roadmaps, capped by Computex in early June, were rebuilt around agents from the chip up. The enterprise data platforms turned into AI platforms: by the start of June, Snowflake's Summit centred on a context layer for agents, and Microsoft and SAP had wired the ERP record into Fabric analytics without a copy step. Governments started buying compute as national capacity. The UK opened a procurement, reported at up to 250 million pounds over four years. It folds commercial cloud into the national AI Research Resource, alongside the Dawn and Isambard-AI supercomputers, under a stated aim of a twentyfold capacity increase by 2030.
-
-**The MU read:** when compute, the data platform and the model are all becoming infrastructure, the advantage moves to the layer that is hard to commoditise: the governed context, and the judgement about what to build on top of it. That is an architecture problem, not a model problem.
-
-### 5. Regulation got a calendar
-
-Compliance stopped being abstract. The EU AI Act's transparency obligations, including labelling AI-generated content and disclosing when a user is dealing with a machine, apply from 2 August 2026, with penalties that reach into the tens of millions of euros or a share of global turnover. A political agreement in May, the so-called Omnibus, deferred the heavier high-risk obligations to the end of 2027, which bought time without changing the direction. Because the Act reaches any organisation whose AI outputs affect EU users, UK firms are in scope wherever they sit, even as the UK keeps its lighter, sector-led domestic approach.
-
-**The MU read:** the deadline turns governance from good practice into a dated obligation. For a UK data leader the practical task of the second half is an inventory: which systems touch EU users, what they disclose, and who signs it off.
+So the model stopped being what sets a company apart. Once everyone can rent or download a capable model, the real question is what you feed it and what you let it touch. That is not a model question. It is a data question.
 
 ---
 
-## Insight: the model was never the bottleneck
+## Agents crossed the line, and governance became the gate
 
-Read across the whole half and the through-lines tell one story. Every launch promised systems that act on enterprise data, and the production failure mode held throughout: the system is fluent and wrong, because it cannot see governed, current, correctly-defined business context. With frontier capability now cheap and close to commoditised, the model is the last thing that separates a working deployment from a broken one.
+Agents were the pilots of 2025. In 2026 they went into production. Gartner expects roughly 40 per cent of enterprise applications to carry task-specific agents by the end of the year, up from under 5 per cent in 2025. The same analysts warn that more than 40 per cent of agentic projects will be scrapped by 2027, killed by cost, unclear value and weak controls.
+
+Both numbers point the same way. The line that separates the winners now is not who has agents. It is who governs them. The companies scaling are the ones that built the audit trail and the permission model first. The ones bolting governance on afterwards are paying for it twice.
+
+---
+
+## The money moved to the foundation
+
+For years the data foundation was the slide everyone nodded at and no one funded. In 2026 it got a budget, and two deals in the same month proved it.
+
+SAP completed its purchase of Reltio on 7 May. Reltio's job is master data. It takes the same customer or product, recorded ten different ways across ten systems, and turns it into one clean, agreed record. SAP bought it to make its customers' data ready for AI.
+
+Three weeks earlier, Snowflake agreed to buy Natoma. Natoma governs what an agent is allowed to do. It checks the agent's identity and logs every action it takes as it reaches into other systems. Snowflake called it the control layer for the agentic enterprise.
+
+Read the two together and the shift is plain. One company paid to govern the data. The other paid to govern what agents do with it. The unglamorous layer now has a price tag, because it is what decides whether an agent's answer can be trusted.
+
+---
+
+## Intelligence became infrastructure
+
+The same pattern showed up in the plumbing. Chip roadmaps, on show at Computex in early June, were rebuilt around agents. The big data platforms turned into AI platforms. At its summit on 1 to 4 June, Snowflake put a governed context layer for agents at the centre of everything it announced. Governments started buying compute as national capacity. The UK opened a procurement worth up to 250 million pounds to expand its AI Research Resource. It runs alongside the Dawn and Isambard-AI supercomputers, with the aim of growing the country's AI compute twentyfold by 2030.
+
+When compute, the platform and the model are all turning into infrastructure, the advantage moves to the part that is hard to copy. That is the governed context, and the judgement about what to build on it. That is an architecture problem, not a model problem.
+
+---
+
+## Regulation got a calendar
+
+Compliance stopped being abstract and got a date. From 2 August 2026 the EU AI Act's transparency rules apply. At their simplest, they mean telling people when they are dealing with a machine. A May agreement, the Omnibus, pushed the heavier high-risk duties back to December 2027 and gave AI-generated-content labelling until December 2026. It left the August date standing. The Act reaches any organisation whose AI outputs touch EU users, so UK firms are in scope wherever they sit, even with the UK's lighter home-grown approach.
+
+For a UK data leader the second-half task is an inventory. Which systems touch EU users, what they disclose, and who signs it off.
+
+---
+
+## The bottleneck was never the model
 
 <img src="/M.Usman/assets/img/s2d-2026-so-far-infographic.png" alt="Where the bottleneck actually sits: a data-to-decision flow. The frontier model is commoditised; the governed context (definitions, lineage, permissions) is the real bottleneck; the agent in production is only as good as its context; the trusted decision is the outcome that matters. Gartner forecasts roughly 40 per cent of enterprise applications will embed task-specific agents by the end of 2026, up from under five per cent in 2025." style="width:100%; height:auto; display:block; margin:1.5rem auto; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.18);" />
 
-A decade ago the same pattern held in ERP-to-analytics work. Reporting was never blocked by the BI tool. It was blocked by definitions, by lineage, and by the copy step between the system of record and the place people analysed it. The first half of 2026 is that lesson re-learned at scale and, for once, funded: the money moved to master data, to context layers, to zero-copy sharing and to governance, not to the model.
+Step back from the half and the parts tell one story. Every launch promised systems that act on a company's data, and they failed in production the same way. The answer comes back fluent and wrong, because the system cannot see the business clearly. It does not know which data it may use, which numbers are current, or what a word like customer means across the company. With frontier models now cheap and much alike, the model is the last thing standing between a working system and a broken one.
 
-So the Insights profession is moving up the stack, not out of the picture. The work is shifting from building the dashboard to curating the governed context a system reads. Whoever can define a metric correctly, trace its lineage, and decide what a model is allowed to see is now the person who decides whether it can be trusted with a decision. That seat is moving up the value chain, not shrinking.
+I have seen this film before. A decade ago in enterprise reporting the same held true. The monthly numbers were never late because of the reporting tool. They were late because no two teams agreed on the definitions, and the data sat in the wrong place. The first half of 2026 is that old lesson learned again, at scale, and this time funded. The money moved to master data, to context layers and to governance, not to the model.
+
+So the Insights profession is moving up, not out. The work is shifting from building the dashboard to curating the governed context a system reads. Whoever can define a metric, prove where it came from, and decide what a model may see is the person who decides whether it can be trusted with a decision.
+
+And the prize is real. On Gartner's best case, agentic AI could drive nearly a third of enterprise-application software revenue by 2035, more than 450 billion dollars, up from 2 per cent in 2025. If that is even close, the seat that defines and governs the data is not shrinking. It just moved up the value chain.
 
 ---
 
 ## On the radar
 
-The rest of June is dense, and the next full edition, the June review out in early July, will cover it:
+The rest of June is busy, and the next full edition, the June review out in early July, will cover it:
 
-- **Apple WWDC** (8 to 12 June): the on-device, privacy-first end of production AI. Worth watching for Siri and the developer tooling that decides how much AI ships on the handset rather than the server.
-- **London Tech Week and The AI Summit London** (8 to 12 June): the UK's flagship week and the clearest read of the half on where British enterprise AI demand is heading.
-- **Databricks Data + AI Summit** (15 to 18 June): the lakehouse and governed-data-for-agents story that runs straight through this issue's through-lines.
+- **Apple WWDC** (8 to 12 June): how much AI runs on the phone rather than the server, and what that means for on-device production AI.
+- **London Tech Week and The AI Summit London** (8 to 12 June): the UK's flagship week and the clearest read of where British enterprise-AI demand is heading.
+- **Databricks Data + AI Summit** (15 to 18 June): the lakehouse and governed-data-for-agents story that runs straight through this issue.
 
-Further out, one date matters more than any conference. On **2 August** the EU AI Act's transparency obligations begin to bite, so the second half of the year is a compliance countdown as much as a capability race. Exact dates are confirmed against each organiser before they appear in an edition.
+One date matters more than any conference. On 2 August the EU AI Act's transparency rules start to bite, so the rest of the year is a compliance countdown as much as a capability race. Exact dates are confirmed against each organiser before they appear in an edition.
 
 ---
 
 ## Sources
 
-- State of AI and enterprise adoption: [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [Deloitte, State of AI in the Enterprise 2026](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html) · [NVIDIA State of AI 2026](https://blogs.nvidia.com/blog/state-of-ai-report-2026/)
-- Agents in production and governance: [Gartner, 40% of enterprise apps with task-specific agents by 2026 (press release, Aug 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025) · [Databricks, enterprise AI agent trends](https://www.databricks.com/blog/enterprise-ai-agent-trends-top-use-cases-governance-evaluations-and-more) · [mid-year enterprise agent report](https://www.ampcome.com/post/enterprise-ai-agents-2026-mid-year-report) <!-- STYLE-OVERRIDE: the Gartner press-release URL literally contains "percent" twice; href only, not reader-visible -->
-- Data foundation as a budget line: [SAP to acquire Reltio (SAP News)](https://news.sap.com/2026/03/sap-to-acquire-reltio/) · [SAP completes Reltio acquisition (SAP News)](https://news.sap.com/2026/05/sap-completes-acquisition-of-reltio/) · [Apptad, mid-year enterprise AI insights 2026](https://apptad.com/insights/whats-next-for-enterprise-ai-mid-year-insights-for-2026/)
-- Frontier model releases (spring 2026): [DeepSeek V4 preview (DeepSeek API docs)](https://api-docs.deepseek.com/news/news260424) · [llm-stats updates](https://llm-stats.com/llm-updates) · [WhatLLM, new models May 2026](https://whatllm.org/blog/new-ai-models-may-2026)
-- Infrastructure (June markers): [Snowflake Summit 2026 (Constellation Research)](https://www.constellationr.com/insights/news/snowflake-summit-2026-context-custom-model-training-iceberg-v3) · [Computex 2026 (NVIDIA)](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) · [SAP on Azure (Microsoft)](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) · [UK AIRR compute procurement (GOV.UK Find a Tender)](https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227) · [UK compute procurement (UKAuthority)](https://www.ukauthority.com/articles/dsit-launches-procurement-for-uk-s-ai-cloud-compute-capacity-expansion)
-- Regulation: [EU AI Act timeline (artificialintelligenceact.eu)](https://artificialintelligenceact.eu/) · [AI Act Omnibus and deadline changes (Latham & Watkins)](https://www.lw.com/en/insights/ai-act-update-eu-resolves-to-change-rules-and-extend-deadlines)
+Figures are web-verified to primary sources as of 7 June 2026. Analyst forecasts and survey readings are reported as such, not asserted as independent fact. Where a deal's terms were not disclosed, no value is stated.
 
-Every figure above is attributed to its source. Analyst forecasts and survey percentages are reported as such, not asserted as independent fact. Vendor and corporate-deal figures are attributed to their source. Each is re-confirmed to its primary source before this edition publishes.
+- Frontier models (spring 2026): [GPT-5.5, 23 Apr (OpenAI)](https://openai.com/index/introducing-gpt-5-5/) · [DeepSeek V4, 24 Apr (MIT Technology Review)](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) · [Gemini 3.5, 19 May (Google)](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) · [Claude Opus 4.8, 28 May (Anthropic)](https://www.anthropic.com/news/claude-opus-4-8)
+- Agents in production and governance: [Gartner, 40% of enterprise apps with task-specific agents by 2026, and ~30% of enterprise-app revenue by 2035 (press release, Aug 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025) · [Gartner, over 40% of agentic AI projects halted by 2027 (press release, Jun 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027) <!-- STYLE-OVERRIDE: both Gartner press-release URLs contain "percent"/"canceled" in the href; not reader-visible -->
+- The data foundation as a budget line: [SAP completes Reltio acquisition, 7 May (SAP News)](https://news.sap.com/2026/05/sap-completes-acquisition-of-reltio/) · [Snowflake to acquire Natoma, 27 May (Snowflake)](https://www.snowflake.com/en/news/press-releases/snowflake-announces-intent-to-acquire-natoma-providing-secure-connectivity-for-the-agentic-enterprise/)
+- Infrastructure (June markers): [Snowflake Summit 2026, 1-4 Jun (SiliconANGLE)](https://siliconangle.com/2026/06/02/ai-agents-open-data-governance-take-center-stage-snowflake-summit/) · [Computex 2026 (NVIDIA)](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) · [UK AIRR compute procurement (GOV.UK Find a Tender)](https://www.find-tender.service.gov.uk/Notice/075900-2025) <!-- STYLE-OVERRIDE: the SiliconANGLE URL contains "center" in the href; not reader-visible -->
+- Regulation: [EU AI Act, Article 50 transparency rules](https://artificialintelligenceact.eu/transparency-rules-article-50/) · [AI Act Omnibus and deadline changes (Latham & Watkins)](https://www.lw.com/en/insights/ai-act-update-eu-resolves-to-change-rules-and-extend-deadlines)
 
 ---
 
 ## Read on and follow
 
-The canonical edition lives on the folio. For the monthly note in your feed, follow [Signal to Decision on LinkedIn](https://www.linkedin.com/newsletters/7469335931502764032/).
+This is the canonical edition. For the monthly note in your feed, follow [Signal to Decision on LinkedIn](https://www.linkedin.com/newsletters/7469335931502764032/).
 
 Written by M Usman, Data Architect & Applied-AI Researcher, with eighteen years leading enterprise data and analytics in FMCG.
 
@@ -107,22 +120,17 @@ Written by M Usman, Data Architect & Applied-AI Researcher, with eighteen years 
 
 [Back to the review index](/M.Usman/review/)
 
-<!-- self-check (internal; Jekyll does not render HTML comments).
+<!-- self-check (internal; Jekyll passes HTML comments through but the browser does not render them).
 Claims about M Usman (traced):
 - Byline "M Usman, Data Architect & Applied-AI Researcher" -> brand-tokens.json identity.positioning + Master-Profile.md (locked 2026-06-05).
-- "eighteen years leading enterprise data and analytics in FMCG" -> Master-Profile.md (18+ years MENA FMCG enterprise data + analytics leadership).
-- No specific employer/metric/date about Usman is asserted in the body. No visa/sponsorship/personal data. Vendor-neutral. British English. Tagline once, at the close.
-External figures — PRIMARY-SOURCE RE-CONFIRMATION DONE 2026-06-07 (career-orchestrator fact gate, web-verified):
-- Gartner ~40% of enterprise apps with task-specific agents by 2026, up from under five per cent in 2025 -> CONFIRMED to the Gartner press release (2025-08-26), now the cited source.
-- "a large share of agentic projects scrapped by 2027" -> CONFIRMED as a Gartner prediction (the cancellation forecast), reported as such.
-- ~a third of organisations with an agent in production; data quality the top blocker -> survey-level readings, attributed as such (Deloitte / enterprise-survey aggregates), not asserted as primary fact.
-- ~16% of enterprise AI spend on master data + governance, third-largest line -> CONFIRMED to the cited Apptad mid-year analysis (foundation-model API ~28% largest, GPU + compute ~22%).
-- Spring model lineup -> CONFIRMED: Claude Opus 4.6 (Feb), Gemini 3.1 (Feb), GPT-5.4 / 5.5 (Mar / Apr), DeepSeek V4 preview (Apr) all shipped Feb to May 2026.
-- DeepSeek V4 -> name CONFIRMED; "trained on non-NVIDIA silicon" was UNSUPPORTED and has been CORRECTED to "reported to run on Chinese silicon (Huawei Ascend)" -> the reporting is about running/inference, not training; "a fraction of the price" confirmed.
-- UK AIRR procurement "up to 250 million pounds over four years", 20x by 2030, Dawn + Isambard-AI -> CONFIRMED (GOV.UK Find a Tender + DCD / The Register), now cited.
-- SAP/Reltio (announced March, completed 7 May 2026; terms undisclosed) -> primary-sourced (SAP News).
-- EU AI Act Art. 50 transparency from 2 Aug 2026; 7 May Omnibus deferred high-risk (Annex III) to 2 Dec 2027 -> CONFIRMED.
-LinkedIn newsletter URL wired into the follow line (this page + the /review/ index): https://www.linkedin.com/newsletters/7469335931502764032/
-Figures cleared; safe to deploy when M Usman pushes the folio.
+- "eighteen years leading enterprise data and analytics in FMCG" + "I have seen this film before ... a decade ago in enterprise reporting" -> Master-Profile.md (18+ years MENA FMCG enterprise data + analytics leadership). No specific employer/metric/date about Usman is asserted.
+External figures — web-verified to PRIMARY sources 2026-06-07 (see the edition folder's _Research-Refresh-2026-so-far.md):
+- Spring wave: GPT-5.5 (23 Apr, OpenAI), DeepSeek V4 (24 Apr, open-weight, MIT Tech Review), Gemini 3.5 (19 May, Google I/O), Claude Opus 4.8 (28 May, Anthropic).
+- Gartner ~40% enterprise apps with agents by 2026 (from under 5% in 2025); >40% of agentic projects scrapped by 2027; ~30% of enterprise-app revenue / over 450bn dollars by 2035 (best case, from 2% in 2025).
+- SAP completed Reltio 7 May 2026 (master data; terms undisclosed); Snowflake agreed to buy Natoma 27 May 2026 (governs agent actions; terms not announced); Snowflake Summit 1-4 Jun 2026.
+- UK AIRR procurement up to 250 million pounds, 20x by 2030, Dawn + Isambard-AI (GOV.UK Find a Tender).
+- EU AI Act Art 50 transparency from 2 Aug 2026; Omnibus (7 May) deferred high-risk to 2 Dec 2027 and AI-content labelling to 2 Dec 2026; UK firms in scope.
+- v2 (2026-06-07): rebuilt as a flowing story; the soft "~16% of AI spend" figure dropped; model lineup corrected; out-of-window M&A excluded.
+- No visa/sponsorship/personal data. Vendor-neutral. British English. Tagline once, at the close. Body prose carries zero em/en dashes and zero explanatory-colon constructions; the only em-dash is the masthead wordmark.
+LinkedIn newsletter follow URL: https://www.linkedin.com/newsletters/7469335931502764032/
 -->
-
