@@ -10,7 +10,7 @@ nav: false
 
 ---
 
-![Signal to Decision — 2026 so far. The data layer won the race: the model commoditised, and the value moved to data and governance.](/M.Usman/assets/img/s2d-2026-so-far-header.png)
+<img src="/M.Usman/assets/img/s2d-2026-so-far-header.png" alt="Signal to Decision — 2026 so far. The data layer won the race: the model commoditised, and the value moved to data and governance." style="width:100%; height:auto; display:block; margin:1.5rem auto; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.18);" />
 
 # Signal to Decision — 2026 so far
 
@@ -62,7 +62,7 @@ Compliance stopped being abstract. The EU AI Act's transparency obligations, inc
 
 Read across the whole half and the through-lines tell one story. Every launch promised systems that act on enterprise data, and the production failure mode held throughout: the system is fluent and wrong, because it cannot see governed, current, correctly-defined business context. With frontier capability now cheap and close to commoditised, the model is the last thing that separates a working deployment from a broken one.
 
-![Where the bottleneck actually sits: a data-to-decision flow. The frontier model is commoditised; the governed context (definitions, lineage, permissions) is the real bottleneck; the agent in production is only as good as its context; the trusted decision is the outcome that matters. Gartner forecasts roughly 40 per cent of enterprise applications will embed task-specific agents by the end of 2026, up from under five per cent in 2025.](/M.Usman/assets/img/s2d-2026-so-far-infographic.png)
+<img src="/M.Usman/assets/img/s2d-2026-so-far-infographic.png" alt="Where the bottleneck actually sits: a data-to-decision flow. The frontier model is commoditised; the governed context (definitions, lineage, permissions) is the real bottleneck; the agent in production is only as good as its context; the trusted decision is the outcome that matters. Gartner forecasts roughly 40 per cent of enterprise applications will embed task-specific agents by the end of 2026, up from under five per cent in 2025." style="width:100%; height:auto; display:block; margin:1.5rem auto; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.18);" />
 
 A decade ago the same pattern held in ERP-to-analytics work. Reporting was never blocked by the BI tool. It was blocked by definitions, by lineage, and by the copy step between the system of record and the place people analysed it. The first half of 2026 is that lesson re-learned at scale and, for once, funded: the money moved to master data, to context layers, to zero-copy sharing and to governance, not to the model.
 
