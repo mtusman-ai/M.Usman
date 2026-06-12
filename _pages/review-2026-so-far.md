@@ -18,9 +18,27 @@ The launch edition. The year to 6 June 2026, read the way the Insights professio
 
 ---
 
+## The bottom line for the business
+
+The AI you buy this year is only as good as the data it is allowed to see. The edge has moved off the model and onto the governed data underneath it. The budget, the risk and the decision now sit there.
+
+---
+
 ## The year in one line
 
 The first half of 2026 settled one question. The model stopped being the hard part. Models got faster, cheaper and more open, and the value moved down to the data and governance layer beneath them. Agents reached production. The boardroom finally started paying for the foundation that decides whether they can be trusted.
+
+---
+
+## The numbers that matter
+
+<img src="/M.Usman/assets/img/s2d-2026-so-far-statcard.png" alt="The numbers that matter, 2026 so far. Agents scale fast, and so does the failure rate, with the compliance deadline in between. 40 per cent of enterprise apps will run task-specific AI agents by the end of 2026, up from under 5 per cent in 2025 (Gartner forecast, August 2025). More than 40 per cent of agentic AI projects will be scrapped by 2027, on cost, unclear value and weak controls (Gartner forecast, June 2025). 2 August 2026 is the EU AI Act transparency deadline for any AI that reaches EU users (EU AI Act, Article 50)." style="width:100%; height:auto; display:block; margin:1.5rem auto; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.18);" />
+
+The three numbers that frame the half year, with their sources:
+
+- **40%** of enterprise applications will run task-specific AI agents by the end of 2026, up from under 5% in 2025 ([Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025)). <!-- STYLE-OVERRIDE: Gartner press-release URL contains "percent"; not reader-visible -->
+- **More than 40%** of those agentic projects will be scrapped by 2027, on cost, unclear value and weak controls ([Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027)). <!-- STYLE-OVERRIDE: Gartner press-release URL contains "percent"/"canceled"; not reader-visible -->
+- **2 August 2026** is the day the EU AI Act's transparency rules start to apply to any organisation whose AI reaches EU users ([EU AI Act](https://artificialintelligenceact.eu/transparency-rules-article-50/)).
 
 ---
 
@@ -39,6 +57,10 @@ So the model stopped being what sets a company apart. Once everyone can rent or 
 Agents were the pilots of 2025. In 2026 they went into production. Gartner expects roughly 40 per cent of enterprise applications to carry task-specific agents by the end of the year, up from under 5 per cent in 2025. The same analysts warn that more than 40 per cent of agentic projects will be scrapped by 2027, killed by cost, unclear value and weak controls.
 
 Both numbers point the same way. The line that separates the winners now is not who has agents. It is who governs them. The companies scaling are the ones that built the audit trail and the permission model first. The ones bolting governance on afterwards are paying for it twice.
+
+### One term in plain English
+
+An AI agent does not just answer a question. It takes actions to finish a task. It reads other systems, makes calls and changes things, with less human checking at each step. That reach is why governing what an agent is allowed to do matters as much as how clever the model behind it is.
 
 ---
 
@@ -66,6 +88,8 @@ When compute, the platform and the model are all turning into infrastructure, th
 
 Compliance stopped being abstract and got a date. From 2 August 2026 the EU AI Act's transparency rules apply. At their simplest, they mean telling people when they are dealing with a machine. A May agreement, the Omnibus, pushed the heavier high-risk duties back to December 2027 and gave AI-generated-content labelling until December 2026. It left the August date standing. The Act reaches any organisation whose AI outputs touch EU users, so UK firms are in scope wherever they sit, even with the UK's lighter home-grown approach.
 
+The angle changes with where you sit. A UK firm works under a lighter home regime, but it is caught the moment its AI reaches an EU user. A Gulf firm selling into Europe is caught the same way. The test is not where you are based. It is who your AI reaches.
+
 For a UK data leader the second-half task is an inventory. Which systems touch EU users, what they disclose, and who signs it off.
 
 ---
@@ -77,6 +101,8 @@ For a UK data leader the second-half task is an inventory. Which systems touch E
 Step back from the half and the parts tell one story. Every launch promised systems that act on a company's data, and they failed in production the same way. The answer comes back fluent and wrong, because the system cannot see the business clearly. It does not know which data it may use, which numbers are current, or what a word like customer means across the company. With frontier models now cheap and much alike, the model is the last thing standing between a working system and a broken one.
 
 I have seen this film before. A decade ago in enterprise reporting the same held true. The monthly numbers were never late because of the reporting tool. They were late because no two teams agreed on the definitions, and the data sat in the wrong place. The first half of 2026 is that old lesson learned again, at scale, and this time funded. The money moved to master data, to context layers and to governance, not to the model.
+
+Put it in the terms a business actually runs on. A system that cannot see the business clearly guesses demand worse. So more cash sits in the warehouse, and the shelf is empty when the shopper reaches for it. It plans slower, so new products reach the shelf later. Fix the governed data underneath it, and those same numbers move the right way. That is why the money moved to the foundation, and not to the model.
 
 So the Insights profession is moving up, not out. The work is shifting from building the dashboard to curating the governed context a system reads. Whoever can define a metric, prove where it came from, and decide what a model may see is the person who decides whether it can be trusted with a decision.
 
@@ -101,26 +127,44 @@ One date matters more than any conference. On 2 August the EU AI Act's transpare
 Figures are web-verified to primary sources as of 7 June 2026. Analyst forecasts and survey readings are reported as such, not asserted as independent fact. Where a deal's terms were not disclosed, no value is stated.
 
 - Frontier models (spring 2026): [GPT-5.5, 23 Apr (OpenAI)](https://openai.com/index/introducing-gpt-5-5/) · [DeepSeek V4, 24 Apr (MIT Technology Review)](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) · [Gemini 3.5, 19 May (Google)](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) · [Claude Opus 4.8, 28 May (Anthropic)](https://www.anthropic.com/news/claude-opus-4-8)
-- Agents in production and governance: [Gartner, 40% of enterprise apps with task-specific agents by 2026, and ~30% of enterprise-app revenue by 2035 (press release, Aug 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025) · [Gartner, over 40% of agentic AI projects halted by 2027 (press release, Jun 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027) <!-- STYLE-OVERRIDE: both Gartner press-release URLs contain "percent"/"canceled" in the href; not reader-visible -->
+- Agents in production and governance: [Gartner, 40% of enterprise apps with task-specific agents by 2026, and ~30% of enterprise-app revenue by 2035 (press release, Aug 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025) · [Gartner, over 40% of agentic AI projects cancelled by 2027 (press release, Jun 2025)](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027) <!-- STYLE-OVERRIDE: both Gartner press-release URLs contain "percent"/"canceled" in the href; not reader-visible -->
 - The data foundation as a budget line: [SAP completes Reltio acquisition, 7 May (SAP News)](https://news.sap.com/2026/05/sap-completes-acquisition-of-reltio/) · [Snowflake to acquire Natoma, 27 May (Snowflake)](https://www.snowflake.com/en/news/press-releases/snowflake-announces-intent-to-acquire-natoma-providing-secure-connectivity-for-the-agentic-enterprise/)
 - Infrastructure (June markers): [Snowflake Summit 2026, 1-4 Jun (SiliconANGLE)](https://siliconangle.com/2026/06/02/ai-agents-open-data-governance-take-center-stage-snowflake-summit/) · [Computex 2026 (NVIDIA)](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) · [UK AIRR compute procurement (GOV.UK Find a Tender)](https://www.find-tender.service.gov.uk/Notice/075900-2025) <!-- STYLE-OVERRIDE: the SiliconANGLE URL contains "center" in the href; not reader-visible -->
 - Regulation: [EU AI Act, Article 50 transparency rules](https://artificialintelligenceact.eu/transparency-rules-article-50/) · [AI Act Omnibus and deadline changes (Latham & Watkins)](https://www.lw.com/en/insights/ai-act-update-eu-resolves-to-change-rules-and-extend-deadlines)
 
 ---
 
+## Your move
+
+If you sit where the data meets the decision, three moves fall out of the half year.
+
+1. Map which of your systems reach EU users, and what each one tells them, before the transparency rules start on 2 August. Settle who signs that off.
+2. Before you scale an agent, check that the audit trail and the permission model are already built, not bolted on afterwards.
+3. Pick one number that matters. Settle what it means and where it comes from. Decide what a model may see before you let a system answer with it.
+
+---
+
 ## Read on and follow
 
-This is the canonical edition. For the monthly note in your feed, follow [Signal to Decision on LinkedIn](https://www.linkedin.com/newsletters/7469335931502764032/).
+This is the full, sourced edition. For the monthly note in your feed, follow [Signal to Decision on LinkedIn](https://www.linkedin.com/newsletters/7469335931502764032/).
 
 Written by M Usman, Data Architect & Applied-AI Researcher, with eighteen years leading enterprise data and analytics in FMCG.
 
-*From enterprise data to production AI.*
+*Decision Intelligence for AI Transformation.*
 
 ---
 
 [Back to the review index](/M.Usman/review/)
 
 <!-- self-check (internal; Jekyll passes HTML comments through but the browser does not render them).
+v5 UPDATE (2026-06-12): the page is rebuilt on the value-complete edition master Newsletter-v5.md
+(= Newsletter-v4 content, Panel-cleared 2026-06-11, + the sub-brand tagline adopted 2026-06-12).
+Additions vs the previously deployed page: the bottom line for the business; the numbers that matter
+(strip + stat card s2d-2026-so-far-statcard.png, figures verbatim from the body + Sources, no new
+claim); One term in plain English; the UK + Gulf regional-angle paragraph; the performance-measures
+translation in the Insight; Your move. All six trace to Newsletter-v4/v5 self-checks; no new external
+claim. Header + infographic site assets replaced in place (deployed-web exception) with the
+sub-brand-tagline renders (header-2026-so-far-v2, infographic-bottleneck-v3 in the edition assets).
 Claims about M Usman (traced):
 - Byline "M Usman, Data Architect & Applied-AI Researcher" -> brand-tokens.json identity.positioning + Master-Profile.md (locked 2026-06-05).
 - "eighteen years leading enterprise data and analytics in FMCG" + "I have seen this film before ... a decade ago in enterprise reporting" -> Master-Profile.md (18+ years MENA FMCG enterprise data + analytics leadership). No specific employer/metric/date about Usman is asserted.
@@ -129,8 +173,9 @@ External figures — web-verified to PRIMARY sources 2026-06-07 (see the edition
 - Gartner ~40% enterprise apps with agents by 2026 (from under 5% in 2025); >40% of agentic projects scrapped by 2027; ~30% of enterprise-app revenue / over 450bn dollars by 2035 (best case, from 2% in 2025).
 - SAP completed Reltio 7 May 2026 (master data; terms undisclosed); Snowflake agreed to buy Natoma 27 May 2026 (governs agent actions; terms not announced); Snowflake Summit 1-4 Jun 2026.
 - UK AIRR procurement up to 250 million pounds, 20x by 2030, Dawn + Isambard-AI (GOV.UK Find a Tender).
-- EU AI Act Art 50 transparency from 2 Aug 2026; Omnibus (7 May) deferred high-risk to 2 Dec 2027 and AI-content labelling to 2 Dec 2026; UK firms in scope.
-- v2 (2026-06-07): rebuilt as a flowing story; the soft "~16% of AI spend" figure dropped; model lineup corrected; out-of-window M&A excluded.
-- No visa/sponsorship/personal data. Vendor-neutral. British English. Tagline once, at the close. Body prose carries zero em/en dashes and zero explanatory-colon constructions; the only em-dash is the masthead wordmark.
+- EU AI Act Art 50 transparency from 2 Aug 2026; Omnibus (7 May) deferred high-risk to 2 Dec 2027 and AI-content labelling to 2 Dec 2026; UK firms in scope; the regional paragraph APPLIES that already-stated reach to the UK + the Gulf, asserting no new fact about either region.
+- Performance-measures lines (guesses demand worse / cash in the warehouse / empty shelf / slower to shelf) -> Editorial-Lens/Performance-Measures.md §5 translation, plain English, no measure named.
+- Tagline "Decision Intelligence for AI Transformation." -> brand-tokens.json sub_brands.signal_to_decision.tagline (adopted 2026-06-12); once, at the close.
+- No visa/sponsorship/personal data. Vendor-neutral. British English. Body prose carries zero em/en dashes; the only em-dash is the masthead wordmark.
 LinkedIn newsletter follow URL: https://www.linkedin.com/newsletters/7469335931502764032/
 -->
