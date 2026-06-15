@@ -27,6 +27,12 @@ The signal in a fraud ring, an ownership chain, or a lateral-movement path is a 
 
 → [Read the deck (PDF)](/M.Usman/assets/pdf/Graph-Intelligence-When-Relationships-Are-the-Data.pdf)
 
+### From pilot to production: the evaluation discipline
+
+Building a pilot is cheap now; crossing to production is the test. A walk through the four evaluation gates a model has to pass to ship, honest evaluation, decision value, production-readiness, and live monitoring, with the failure mode that leaks candidates out at each gate, the practical steps that pass it, and an evaluation-maturity ladder from a notebook that runs to a deployment that is gated and self-correcting.
+
+→ [Read the deck (PDF)](/M.Usman/assets/pdf/From-Pilot-to-Production-The-Evaluation-Discipline.pdf)
+
 ### The four data professions, end to end
 
 Data architect, data engineer, data analyst, data scientist: four titles that slide around between employers, mapped onto the four stable stages of the work, from designing the data foundation to deciding what to do with it. For each role, what it owns, what it ships, how it is measured, its tech stack, and the path that builds it, with two diagrams of the shared value chain and the skill ladder every data role climbs.
