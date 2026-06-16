@@ -19,9 +19,9 @@ REACH is my doctoral programme: a scheduling framework for heterogeneous CPU+GPU
 - **Evaluation.** 33 algorithms under empirical evaluation against the REACHsim simulator.
 - **Status.** Scheduler and simulator validation in progress; thesis submission towards end of 2026. The simulator and the failure-prediction model are not yet public; the method is described in the journal article currently under review: see [Publications](/M.Usman/publications/).
 
-### Industrial IoT for Smart Energy Management — book chapter (Springer, 2024/25, published link/DOI to confirm)
+### Introduction to AI Enabled Industrial Internet of Things — book chapter (Springer Handbook of IIoT, accepted, in production)
 
-A co-authored Springer book chapter on real-time energy analytics in smart manufacturing, applying ML to industrial IoT data for decision support. Citation on the [Publications](/M.Usman/publications/) page.
+A co-authored introductory chapter on AI-enabled industrial IoT, in the Springer Handbook of Industrial Internet of Things (accepted, in production). Citation on the [Publications](/M.Usman/publications/) page.
 
 ---
 
