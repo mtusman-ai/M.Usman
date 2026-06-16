@@ -9,11 +9,11 @@ nav_order: 2
 
 <!-- Rendered by jekyll-scholar from _bibliography/papers.bib. Both entries are @misc; query by year. -->
 
-## Journal article — pending publication (IEEE Access)
+## Journal article under review (IEEE Access)
 
 {% bibliography --query @misc[year=2025] %}
 
-## Book chapter — Springer (2024/25, published link/DOI to confirm)
+## Book chapter accepted, in production (Springer Handbook of IIoT)
 
 {% bibliography --query @misc[year=2024] %}
 

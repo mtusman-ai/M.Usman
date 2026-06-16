@@ -70,7 +70,7 @@ cv:
           - "Designing REACH: a failure-aware real-time scheduling framework for heterogeneous CPU+GPU+FPGA cloud."
           - "Methods: graph attention networks (FA-GAT family), deadline-aware migration (DAMP), Liu–Layland and EDF schedulability bounds, DMR as empirical sufficiency."
           - "33 algorithms under empirical evaluation against the REACHsim simulator."
-          - "Co-author, Springer book chapter on Industrial IoT for Smart Energy Management (2024/25, published link/DOI to confirm)."
+          - "Co-author, Springer book chapter, Introduction to AI Enabled Industrial Internet of Things (Springer Handbook of IIoT), accepted for publication."
       - company: University of Huddersfield
         position: Teaching Assistant
         location: Huddersfield, UK
@@ -151,16 +151,19 @@ cv:
           random forest ROC AUC 0.817 (10-fold cross-validation mean 0.771).
 
     Publications:
-      - title: Industrial Internet of Things for Smart Energy Management
+      - title: Introduction to AI Enabled Industrial Internet of Things
         authors:
-          - M Usman and others
-        publisher: Springer book chapter
-        summary: "2024/25; published link/DOI to confirm."
-      - title: Deep-learning task-failure prediction in cloud data centres
+          - M Usman
+          - Clay Palmeira
+          - Minsi Chen
+        publisher: Springer Handbook of Industrial Internet of Things (book chapter)
+        summary: "Accepted for publication; in production."
+      - title: "REACH-FP: Real-Time Deep Learning Task Failure Prediction Framework"
         authors:
-          - M Usman and others
+          - M Usman
+          - Clay Palmeira
         publisher: IEEE Access
-        summary: "Pending publication; final title to be confirmed."
+        summary: "Under review."
 
     Skills:
       - name: Programming & Data
