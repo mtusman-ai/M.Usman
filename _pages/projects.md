@@ -55,6 +55,16 @@ The scikit-learn build of the same analysis, prepared as a worked example for th
 
 ---
 
+## Product & strategy
+
+### IEUK 2025 — product-roadmap case study (Bright Network)
+
+A product-management response to Bright Network's Internship Experience UK (IEUK) 2025, Technology & Engineering set project. Acting as product manager for a wellness-app brief, I built a six-month product roadmap to raise retention and engagement and prepare a premium tier, within a team of three engineers and one designer. The work covers user research into personas, RICE and MoSCoW prioritisation, a phased roadmap with user stories and success metrics, a technology-stack rationale, OKRs, and a risk register. The case-study company (Routina) is fictional; the analysis is mine.
+
+→ [github.com/mtusman-ai/ieuk-2025-product-roadmap](https://github.com/mtusman-ai/ieuk-2025-product-roadmap)
+
+---
+
 ## Seminars
 
 ### Knowledge Graphs for Healthcare — MSc seminar (2021)
