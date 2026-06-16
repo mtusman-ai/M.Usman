@@ -59,16 +59,14 @@ cv:
         studyType: Membership
         start_date: 2023
         end_date: present
-
-    Professional development:
       - institution: Bright Network
         location: Virtual, UK
         area: Internship Experience UK (IEUK) 2025, Technology & Engineering
-        studyType: Internship experience
+        studyType: Professional development
         start_date: 2025-07
         end_date: 2025-07
         highlights:
-          - "Competitive four-day virtual internship (14–17 July 2025): sector skills sessions from leading employers, a technology deep-dive, and a set project."
+          - "Competitive four-day virtual internship: employer-led skills sessions, a technology deep-dive, and a set project."
           - "Completed the technology skills project, producing a six-month product roadmap for a wellness-app case study, with RICE / MoSCoW prioritisation, technology-stack selection, and success metrics. Certificate of completion issued."
 
     Experience:
