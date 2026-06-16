@@ -98,7 +98,7 @@ cv:
       - company: IFFCO Group
         position: Sales & Customer Marketing Manager
         location: UAE
-        start_date: 2010-12
+        start_date: 2009-11
         end_date: 2018-03
         highlights:
           - "Managed an FMCG portfolio with AED 3B+ annual revenue, delivering approximately 21% CAGR over 7 years."
@@ -106,16 +106,11 @@ cv:
           - "Led the Oracle ERP programme (Fujitsu SI): Oracle CRM, WMS, OTM, and Demantra; authored specs, owned UAT, drove change management across GCC and Levant."
           - "Designed the enterprise analytics suite on Tableau and QlikView, end to end; implemented Master Data Management and data-nomenclature standards."
           - "Led and mentored a sales team of 50+; doubled sales in key regions (+107% YoY)."
-      - company: Sales & Distribution Start-Up
-        position: General Manager — Sales Marketing
-        location: UAE
-        start_date: 2009-07
-        end_date: 2010-12
       - company: Masafi LLC
         position: Planning & Customer Service Head
         location: UAE
         start_date: 2008-07
-        end_date: 2009-06
+        end_date: 2009-10
         highlights:
           - "Designed and implemented the S&OP process; managed nationwide distribution, export logistics, demand-supply planning, and warehouse infrastructure."
           - "Contributed to Oracle ERP implementation (local SI): WMS, Transportation, and Demantra, alongside SAP HANA and BI for analytics."
