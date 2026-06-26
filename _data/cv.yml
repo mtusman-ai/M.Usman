@@ -1,16 +1,16 @@
 # Structured CV data for the al-folio /cv page (RenderCV format; cv_format: rendercv).
 cv:
   name: M Usman
-  label: Data Architect & Applied-AI Researcher
+  label: Enterprise & Data Architect · Applied-AI Researcher
   email: mt_usman@outlook.com
   location: West Yorkshire, UK
   image: ""
   summary: >
-    Data architect and applied-AI researcher with 18+ years leading enterprise data
-    and analytics across MENA FMCG (Nestlé, Masafi, IFFCO, Emirate Service): Oracle and
-    SAP ERP programmes, Master Data Management, and end-to-end BI on Tableau and QlikView.
-    PhD research builds failure-aware, real-time AI schedulers for heterogeneous cloud.
-    Available for senior data architecture, data engineering, and applied-AI roles in the
+    Enterprise and data architect, and applied-AI researcher, with 18+ years leading
+    enterprise data and analytics across MENA FMCG (Nestlé, Masafi, IFFCO, Emirate Service):
+    Oracle and SAP ERP programmes, Master Data Management, and end-to-end BI on Tableau and
+    QlikView. PhD research builds failure-aware, real-time AI schedulers for heterogeneous cloud.
+    Available for senior data-architecture, data-and-AI-strategy, and applied-AI roles in the
     UK from thesis completion (towards end of 2026).
 
   social_networks:

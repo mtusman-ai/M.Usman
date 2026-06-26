@@ -15,6 +15,12 @@ Why most AI work stalls before production, and the pipeline that ships it. A fou
 
 → [Read the deck (PDF)](/M.Usman/assets/pdf/From-Enterprise-Data-to-Production-AI.pdf)
 
+### Enterprise architecture for AI transformation
+
+Why AI stalls at the enterprise, not the model, and the architecture that scales it past the pilot. A four-layer walk from business capabilities to the governed data foundation, the build-versus-buy decision, and designed-in governance, with the practical steps, the common pitfalls, and a maturity ladder from scattered pilots to a self-funding capability.
+
+→ [Read the deck (PDF)](/M.Usman/assets/pdf/Enterprise-Architecture-for-AI-Transformation.pdf)
+
 ### Proactive, resource-aware AI for industrial systems
 
 From reacting to failure to pre-empting it. A four-stage walk from the sensor signal foundation to a model that runs on the asset, inside its compute and deadline budget, with the practical steps, the common pitfalls, and a maturity ladder from reacting to pre-empting.
