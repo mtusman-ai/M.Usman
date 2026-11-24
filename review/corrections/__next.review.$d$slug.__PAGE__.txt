@@ -1,0 +1,58 @@
+1:"$Sreact.fragment"
+2:"/M.Usman/_next/static/chunks/0wqi6_aq851-3.js"
+3:I[22016,["$2"],""]
+4:I[36934,["$2"],"default"]
+5:I[22530,["$2"],"default"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+:HL["/M.Usman/_next/static/chunks/1z0qctu3h3-q3.css","style"]
+9:X
+c:X
+c:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L11","p":"$@12","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"corrections","s":[]},"h":65632,"d":{"r":"$Le","p":"$@f","v":"$c","s":"$9"},"c":"$Q10"}]]
+a:[["children",{"s":"review","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/M.Usman/_next/static/chunks/1z0qctu3h3-q3.css","precedence":"next"}],["$","script","script-0",{"src":"/M.Usman/_next/static/chunks/0wqi6_aq851-3.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"dULiVq_variable jSKoCW_variable y1I1Iq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var d=document.documentElement,q=new URLSearchParams(location.search).get(\"theme\"),s=null;try{s=localStorage.getItem(\"mu-theme\")}catch(e){}var c=(q===\"light\"||q===\"dark\")?q:((s===\"light\"||s===\"dark\")?s:null);d.dataset.theme=c||(matchMedia(\"(prefers-color-scheme: dark)\").matches?\"dark\":\"light\");if(c)d.dataset.themeChoice=c}catch(e){}})();"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"M Usman\",\"url\":\"https://mtusman-ai.github.io/M.Usman/\",\"image\":\"https://mtusman-ai.github.io/M.Usman/assets/img/prof_pic.jpg\",\"jobTitle\":\"Enterprise & Data Architect · Applied-AI Researcher\",\"description\":\"Enterprise and data architect, and applied-AI researcher, with 18+ years leading enterprise data and analytics.\",\"sameAs\":[\"https://www.linkedin.com/in/tariqusman/\",\"https://github.com/mtusman-ai\"],\"alumniOf\":[{\"@type\":\"CollegeOrUniversity\",\"name\":\"University of Huddersfield\"},{\"@type\":\"CollegeOrUniversity\",\"name\":\"Royal Holloway, University of London\"}],\"knowsAbout\":[\"Enterprise data architecture\",\"Master Data Management\",\"Business intelligence\",\"Applied AI\"]}"}}]]}],["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap site-header__row","children":[["$","$L3",null,{"href":"/","className":"wordmark","aria-label":"M Usman, home","children":"M Usman"}],["$","$L4",null,{}],["$","$L5",null,{}]]}]}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"page-head","children":["$","div",null,{"className":"wrap wrap--read","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"className":"page-head__lede","children":["Nothing lives at this address. The ",["$","$L3",null,{"href":"/","children":"home page"}]," and the ",["$","$L3",null,{"href":"/review/","children":"briefing"}]," list everything on the site."]}]]}]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap site-footer__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"site-footer__name","children":"M Usman"}],["$","p",null,{"className":"site-footer__line","children":"Enterprise & Data Architect · Applied-AI Researcher"}]]}],["$","ul",null,{"className":"site-footer__links","aria-label":"Contact and profiles","children":[["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/in/tariqusman/","rel":"noopener","children":"LinkedIn"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://github.com/mtusman-ai","rel":"noopener","children":"GitHub"}]}],["$","li",null,{"children":["$","a",null,{"href":"/M.Usman/review/feed.xml","children":"RSS feed for the briefing"}]}]]}],["$","ul",null,{"className":"site-footer__links","aria-label":"Site","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/review/","children":"Briefing"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/review/corrections/","children":"Corrections register"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/insights/","children":"Decks"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/cv/","children":"CV"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/privacy/","children":"Privacy notice"}]}]]}]]}],["$","div",null,{"className":"wrap site-footer__base","children":["$","p",null,{"children":"© 2026 M Usman. Static pages: no trackers and no third-party scripts."}]}]]}]]}]]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],"$L15","$L16"]}],"$L17","$L18"]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"BxcTFNwyRCE4MH6D4gJP2"}
+1d:I[97367,["$2"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+22:I[27201,["$2"],"IconMark"]
+e:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}]
+1c:T6ff,<p>This page lists every correction Signal to Decision has issued, newest first. Nothing is removed from it
+once published.</p>
+<p><strong>The register is empty. It has been open since 19 July 2026.</strong></p>
+<p>That is the honest state, and publishing it while empty is deliberate. A corrections page that appears on
+the day of the first correction is not a standing practice. This one exists first.</p>
+<h3 id="how-corrections-work-here">How corrections work here</h3>
+<p>If Signal to Decision publishes a statement of fact that is wrong, the correction runs at the top of the
+next edition, above the first story. Not in a footer, and not only on the web.</p>
+<p>The correction issues on every surface the error reached. If it went out on this site, in the LinkedIn
+edition, in the video and in the audio, it is corrected on every one of them.</p>
+<p>The note names what was wrong, not only what is now right, and it says how the error happened. The word
+used is "correction". Not "update", not "clarifies". Where the archive page carried the error, that page
+is corrected and an amendment note is appended to it, so the record shows both the fix and the fact that a
+fix was needed.</p>
+<p>Something published accurately that later changes is not a correction. It gets a dated note saying what
+changed and when.</p>
+<h3 id="telling-me-about-an-error">Telling me about an error</h3>
+<p>If you think something here is wrong, tell me and I will check it against the primary source. If it is
+wrong, it gets corrected on this page and in the next edition. If it is right, I will show you the source.</p>
+<p>Message me on <a href="https://www.linkedin.com/in/tariqusman/" rel="noopener">LinkedIn</a>, or reply to any edition.</p>
+<p><a href="/M.Usman/review/">Back to the review index</a></p>11:["$","$1","c",{"children":[[["$","div",null,{"className":"page-head","children":["$","div",null,{"className":"wrap wrap--read","children":[["$","p",null,{"className":"eyebrow","children":"Signal to Decision"}],["$","h1",null,{"children":"Corrections"}],["$","p",null,{"className":"page-head__lede","children":"The corrections register for Signal to Decision. Every correction issued, dated, newest first."}]]}]}],["$","article",null,{"className":"reading ","children":["$","div",null,{"className":"wrap wrap--read","children":["$","div",null,{"className":"prose ","dangerouslySetInnerHTML":{"__html":"$1c"}}]}]}],null],null,["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]]}]
+15:["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}]
+16:["$","meta","3",{"name":"theme-color","content":"#0b2545","media":"(prefers-color-scheme: dark)"}]
+17:["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Corrections · M Usman"}],["$","meta","1",{"name":"description","content":"The corrections register for Signal to Decision. Every correction issued, dated, newest first."}],["$","meta","2",{"name":"author","content":"M Usman"}],["$","link","3",{"rel":"canonical","href":"https://mtusman-ai.github.io/M.Usman/review/corrections/"}],["$","link","4",{"rel":"alternate","type":"application/rss+xml","href":"https://mtusman-ai.github.io/M.Usman/review/feed.xml","title":"Signal to Decision"}],["$","meta","5",{"property":"og:title","content":"Corrections"}],["$","meta","6",{"property":"og:description","content":"The corrections register for Signal to Decision. Every correction issued, dated, newest first."}],["$","meta","7",{"property":"og:url","content":"https://mtusman-ai.github.io/M.Usman/review/corrections/"}],["$","meta","8",{"property":"og:site_name","content":"M Usman"}],["$","meta","9",{"property":"og:locale","content":"en_GB"}],["$","meta","10",{"property":"og:image","content":"https://mtusman-ai.github.io/M.Usman/og/review-corrections.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Corrections"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Corrections"}],["$","meta","17",{"name":"twitter:description","content":"The corrections register for Signal to Decision. Every correction issued, dated, newest first."}],["$","meta","18",{"name":"twitter:image","content":"https://mtusman-ai.github.io/M.Usman/og/review-corrections.png"}],["$","meta","19",{"name":"twitter:image:alt","content":"Corrections"}],["$","meta","20",{"name":"twitter:image:width","content":"1200"}],["$","meta","21",{"name":"twitter:image:height","content":"630"}],["$","link","22",{"rel":"icon","href":"/M.Usman/icon-64.png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/M.Usman/apple-touch-icon.png"}],["$","$L22","24",{}]]}]}],null]}]
+18:["$","meta",null,{"name":"next-size-adjust","content":""}]
+9:300
+1f:null
+1b:true
+9:C
+1a:0
+f:"$undefined"
+b:"$undefined"
+8:"$undefined"
+19:"$undefined"
+12:"$undefined"
