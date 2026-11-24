@@ -5,4 +5,4 @@
 :HL["/M.Usman/_next/static/media/space_grotesk_latin_wght_normal-s.p.092gko6h6levo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"privacy","h":96,"c":"$Q2"}]]
-0:{"b":"BxcTFNwyRCE4MH6D4gJP2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"lsQwzkZIkg93ZZk-6DPX6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
